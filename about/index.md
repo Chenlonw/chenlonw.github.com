@@ -4,14 +4,23 @@ title: About Me
 tags: [about, me]
 date: 2016-05-11
 ---
-<font size='3pt'> 
-I am a Ph.D. student in geophysics in China. What I am doing is exploring hydro-carbon resource by seismic method.
-My specific interests are as follows:
-</font>
-+ <font size='3pt'> seismic modeling </font>
-+ <font size='3pt'> multi-component imaging </font>
-+ <font size='3pt'> velocity inversion </font>
 
-<font size='3pt'> 
-This site is constructed for 
-</font>
+### Who I am
+I am a Ph.D. student in geophysics in China. What I am doing is learning how to explore hydrocarbon
+resource by the seismic method. My specific interests are as follows:
+
++ seismic wavefield simulation
++ multi-component imaging
++ velocity inversion
+
+### About posts
++ This site is constructed for sharing some notes about programming or learning seismic theory and
+marking my lifetime.
++ My mother tongue is Chinese, however, I will try to write some of my posts in English. It depends
+on my mood.
++ Due to my limited ability, mistakes and misunderstandings are inevitable in the posts and I am
+_not_ responsible for the corresponding consequences.
++ If you have any suggestions about the technical content or my English skills, let me know, please.
+
+### Contact info
+*chl_wang@yahoo.com*

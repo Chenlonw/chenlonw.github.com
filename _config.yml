@@ -1,7 +1,7 @@
 # Site
 title:              CHENLONG WANG
 bio:                'Go explore, Go experience'
-description:        "I am a Ph.D. student in geophysics"
+description:        "I am a Ph.D. student in geophysics in China"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-#disqus_shortname:   taylantatli
+disqus_shortname:   chlwang 
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,7 +38,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              chl_wang@yahoo.com
 twitter:            chenlonw
 facebook:           chenlonw
 github:             chenlonw
@@ -63,10 +63,10 @@ github:             chenlonw
 
 # Gems
 #gems:
-    #  - jekyll-mentions
+    # - jekyll-mentions
     # - jekyll-feed
-    #- jekyll-sitemap
-    #- jekyll-gist
+    # - jekyll-sitemap
+    # - jekyll-gist
 
 jekyll-mentions:
     base_url: https://github.com
