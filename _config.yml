@@ -1,15 +1,16 @@
 # Site
 title:              CHENLONG WANG
-bio:                'Go explore, Go experience'
+bio:                'Go explore,  Go experience'
 description:        "I am a Ph.D. student in geophysics in China"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+#background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/16304833066_4c18c6e1d2_o.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 port: 4075
-#url:                http://taylantatli.me/Moon
+#url:               http://taylantatli.me/Moon
 
 # Jekyll
 permalink:          /:title/

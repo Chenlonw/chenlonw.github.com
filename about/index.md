@@ -15,11 +15,11 @@ resource by the seismic method. My specific interests are as follows:
 
 ### About posts
 + This site is constructed for sharing some notes about programming or learning seismic theory and
-marking my lifetime.
-+ My mother tongue is Chinese, however, I will try to write some of my posts in English. It depends
-on my mood.
+marking my life.
++ My mother tongue is Chinese, however, I will try to write some of my posts in English. But it
+depends.
 + Due to my limited ability, mistakes are inevitable in the posts and I am _not_ responsible for the
-corresponding consequences.
+corresponding consequences :P
 + If you have any suggestions about the technical content or my English skills, let me know, please.
 
 ### Contact info
