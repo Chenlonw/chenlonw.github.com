@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "How to support Chinese in Latex"
+title:  "How to type Chinese in Latex"
 date:   2016-05-16
-excerpt: "Two ways to support Chinese fonts in Latex"
+excerpt: "Two ways to type Chinese fonts in Latex"
 tag:
 - Latex 
 - Chinese 
@@ -48,8 +48,6 @@ sudo fc-cache -fv
 
 **zhfontcfg.sty/demo.tex:**
 <script src="https://gist.github.com/Chenlonw/6c4332730d986e479a447d5b10992d2b.js"></script>
-
----
 
 *参考文献：*   
 [1.xetex完美中文配置](http://www.linuxdiyf.com/viewarticle.php?id=108646)   
