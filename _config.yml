@@ -9,7 +9,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/16304833066_4c18c6e1d2_o.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-port: 4075
+port: 4078
 #url:               http://taylantatli.me/Moon
 
 # Jekyll
