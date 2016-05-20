@@ -1,6 +1,6 @@
 # Site
 title:              CHENLONG WANG
-bio:                'Go explore,  Go experience'
+bio:                'Dreams make who we are'
 description:        "I am a Ph.D. student in geophysics in China"
 reading_time:       true
 words_per_minute:   200
@@ -40,9 +40,9 @@ sass:
   #ad-slot:
 #bing-verify:
 email:              chl_wang@yahoo.com
-twitter:            chenlonw
 facebook:           chenlong.wang.58
-github:             chenlonw
+twitter:            chenlonw
+#github:             chenlonw
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
