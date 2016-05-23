@@ -13,6 +13,8 @@ resource by the seismic method. My specific interests are as follows:
 + multi-component imaging
 + velocity inversion
 
+<a href="../assets/doc/cv.pdf" target="_blank">Curriculum Vitae</a>
+
 ### About posts
 + This site is constructed for sharing some notes about programming or learning seismic theory and
 marking my life.
