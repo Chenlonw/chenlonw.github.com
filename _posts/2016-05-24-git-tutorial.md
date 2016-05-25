@@ -98,6 +98,6 @@ branch called master.
 haven't merged, you really want to delete, you need argument `-D`
 1. `git push`: to update your modification to the remote server.
 
-####suggested references
+#### suggested references
 + Official [Git book](http://git-scm.com/book/en/v2)
 + A good website for [trying Git](https://try.github.io/levels/1/challenges/1)
