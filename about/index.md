@@ -6,12 +6,18 @@ date: 2016-05-11
 ---
 
 ### Who I am
-I am a Ph.D. student in geophysics in China. What I am doing is learning how to explore hydrocarbon
-resource by the seismic method. My specific interests are as follows:
+My name is Chenlong Wang and I am living in Shanghai, China. I moved from a moderate city,
+[Lanzhou](https://en.wikipedia.org/wiki/Lanzhou), to Shanghai in 2007 to start my bachelor degree in
+Tongji university. I directly upgraded to Ph.D. student when I graduated as a bachelor in 2011.
+During my Ph.D. life, what I am doing is studying how to explore hydrocarbon resource by the
+seismic method. My specific interests are as follows:
 
 + seismic wavefield simulation
 + multi-component imaging
 + velocity inversion
+
+More detailed information is available in my <a href="../assets/doc/cv.pdf"
+target="_blank"><b>Curriculum Vitae.</b></a>
 
 ### About posts
 + This site is constructed for sharing some notes about programming or learning seismic theory and

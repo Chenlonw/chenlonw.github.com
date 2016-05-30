@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello world"
-date:   2016-05-16
+date:   2016-05-15
 excerpt: "Just say hello to my blog"
 tag:
 - hello 
