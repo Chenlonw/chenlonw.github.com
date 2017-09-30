@@ -16,7 +16,7 @@ seismic method. My specific interests are as follows:
 + multi-component imaging
 + velocity inversion
 
-More detailed information is available in my <a href="../assets/doc/cv.pdf"
+More detailed information is available in my <a href="../assets/doc/chlwang-tongji.pdf"
 target="_blank"><b>Curriculum Vitae.</b></a>
 
 ### About posts
