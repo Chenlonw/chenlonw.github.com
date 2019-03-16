@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
+title: Chenlong Wang
+email: clwang88@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["Optimization", "Machine Learning", "Data Science"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Shanghai
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Chenlong Wang
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Algorithm Engineer"
+  bio: "I was an applied geophysicist focus on data assimilation, and I am newly working for artificial intelligence laboratory in SAIC Motor, Shanghai."
   email:
   disqus-shortname:
   twitter: #username
