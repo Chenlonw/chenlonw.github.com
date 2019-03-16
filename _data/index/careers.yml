@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: AI Lab, SAIC MOTOR
+  link: http://www.saicmotor.com/english/company_profile/about_us/index.shtml
+  date: Aug 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Algorithm Engineer
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: CNPC
+  link: http://www.cnpc.com.cn/en/
+  date: Oct 2016 - Nov 2016
+  job: Computational geophysicist
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: SINOPEC
+  link: http://www.cnpc.com.cn/en/
+  date: Sep 2012 - Oct 2012
+  job: Computational geophysicist
