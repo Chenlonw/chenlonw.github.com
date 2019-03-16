@@ -25,6 +25,9 @@
     width: 100px;
     height: 100px;
     float: none;
+    @include media-query($medium-screen) {
+      margin-right: 0;
+    }
   }
   .author_name {
     display: block;
@@ -77,6 +80,12 @@
     display: inline-block;
     *display: inline;
     zoom: 1;
+    &:after {
+      content: '/';
+    }
+    &:last-child:after {
+      content: '';
+    }
     & a {
       margin-top: 1em;
       text-transform: lowercase;
