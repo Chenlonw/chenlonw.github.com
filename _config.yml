@@ -6,6 +6,7 @@
 title: Chenlong Wang
 email: clwang88@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
+url: # the base hostname & protocol for your site
 keywords: ["Optimization", "Programming", "Data Science"]
 
 #
