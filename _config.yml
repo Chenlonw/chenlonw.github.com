@@ -1,76 +1,39 @@
-# Site
-title:              CHENLONG WANG
-bio:                'Nothing great happens without failure'
-description:        "I am a Ph.D. student in geophysics in China"
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/logo.png'
-#background:         'assets/img/placeholder-big.jpg'
-background:         'assets/img/16304833066_4c18c6e1d2_o-min.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-port: 4078
-#url:               http://taylantatli.me/Moon
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Chenlong Wang
+email: clwang88@gmail.com
+description: A simple and awesome blog theme powered by jekyll.
+url: https://chenlongwang.cn # the base hostname & protocol for your site
+keywords: ["Optimization", "Programming", "Data Science"]
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-#highlighter:        rouge
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Shanghai
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
-sass:
-  sass_dir:         _sass
-  style:            compressed
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-# Comments
-#disqus_shortname:   chlwang 
-
-# Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-email:              chl_wang@yahoo.com
-twitter:            chenlonw
-facebook:           chenlong.wang.58
-github:             chenlonw
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:             username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-
-# Gems
-#gems:
-    # - jekyll-mentions
-    # - jekyll-feed
-    # - jekyll-sitemap
-    # - jekyll-gist
-
-jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Chenlong Wang
+  avatar: avatar.png
+  job: "Algorithm Engineer"
+  bio: "I was an applied geophysicist focus on data assimilation, and I am newly working for artificial intelligence laboratory in SAIC Motor, Shanghai."

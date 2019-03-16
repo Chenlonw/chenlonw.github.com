@@ -1,0 +1,16 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: AI Lab, SAIC MOTOR
+  link: http://www.saicmotor.com/english/company_profile/about_us/index.shtml
+  date: Aug 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Algorithm Engineer
+
+- name: CNPC
+  link: http://www.cnpc.com.cn/en/
+  date: Oct 2016 - Nov 2016
+  job: Computational geophysicist
+
+- name: SINOPEC
+  link: http://www.cnpc.com.cn/en/
+  date: Sep 2012 - Oct 2012
+  job: Computational geophysicist

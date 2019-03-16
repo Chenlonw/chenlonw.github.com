@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Motivation, Git, CUDA, C/C++, MPI, Python
+percentage: 100, 65, 70, 80, 68, 75
